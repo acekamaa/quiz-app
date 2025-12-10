@@ -1,6 +1,6 @@
 body {
         font-family: "Poppins", sans-serif;
-        background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+        background: linear-gradient(135deg, #6357d3, #302b63, #24243e);
         padding: 40px;
         margin: 0;
         color: white;
@@ -19,7 +19,7 @@ body {
         margin: 40px 0 20px;
         font-size: 1.7rem;
         color: #ff66c4;
-        text-shadow: 0 0 8px #ff66c4;
+        text-shadow: 0 0 5px #ff66c4;
     }
 
     .grid {
@@ -68,7 +68,7 @@ body {
 
         /* Glassmorphism */
         background: rgba(255, 255, 255, 0.15);
-        backdrop-filter: blur(12px);
+        /* backdrop-filter: blur(12px); */
         border: 1px solid rgba(255, 255, 255, 0.25);
         box-shadow: 0 0 20px rgba(0,0,0,0.5), 0 0 10px #00eaff55;
     }
